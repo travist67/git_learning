@@ -1,4 +1,4 @@
-rev5 updated by cloned local repo
+rev5 updated by original local repo and cloned local repo
 rev4 updated by original local repo
 
 
